@@ -1,4 +1,3 @@
-
 /**
  * appFunc.js - Periodic Table Grid Rendering
  * =========================================
